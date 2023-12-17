@@ -17,6 +17,3 @@
 
 # <br> <center>☣️As long as the cursor is pulsing, there is life!☣️</center>
 
-<div style="display: flex; justify-content: center;">
-    <img src="https://avatars.githubusercontent.com/u/99436926?v=4" alt="Logo" />
-</div>
