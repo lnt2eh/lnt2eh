@@ -6,7 +6,7 @@
 ![Хируко GitHub stats](https://github-readme-stats.vercel.app/api?username=h1Ryk0&show_icons=true&theme=highcontrast)
 
 
-## 🏴‍☠️ Interested in Linux Kernel, C, Assembly and ARM Architecture 🏴‍☠️
+## 🏴‍☠️ Interested in Windows Kernel, C, Assembly and ARM Architecture 🏴‍☠️
 
 <div style="display: flex; justify-content: center;">
     <img align="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
