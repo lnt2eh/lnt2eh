@@ -4,7 +4,7 @@ Bem-vindo ao meu repositório! Aqui você encontrará conteúdos técnicos sobre
 
 ### 🌐 Conecte-se comigo:
 
-[Twitter](https://x.com/int2Eh) | [Instagram](https://www.instagram.com/_int2eh/) | [Medium](https://medium.com/@int2Eh)
+[Twitter](https://x.com/int2Eh) | [Instagram](https://www.instagram.com/_int2eh/) | [Medium](https://medium.com/@int2Eh) | [Linkedin](https://www.linkedin.com/in/int2eh/).
 
 ---
 
