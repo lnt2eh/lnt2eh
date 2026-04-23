@@ -34,6 +34,4 @@
 ================================================================================
 ```
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier&size=14&duration=2500&pause=800&color=00FF00&background=000000&center=true&vCenter=true&width=700&lines=%2F*+rule+zero+*%2F;if+(!fully_understand(problem));%7B;++++provide(NO_SOLUTION);+%2F%2F+non-negotiable;%7D;_int2Eh%40localhost+~+%24+_" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=600&color=CC2200&background=00000000&width=540&lines=/*+rule+zero+*/;if+(!fully_understand(problem));{;++++provide(NO_SOLUTION);+//+non-negotiable;};_int2Eh%40localhost+~+%24+_" alt="Typing SVG" />
