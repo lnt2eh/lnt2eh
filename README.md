@@ -1,7 +1,9 @@
 ```
-================================================================================                                                                                         
-                   [ _int2Eh github — enter at your own risk ]                         
 ================================================================================
+                   [ _int2Eh github — enter at your own risk ]
+================================================================================
+```
+
 ```
   ________________________________________
   / so you want to know about me huh      \
@@ -12,7 +14,6 @@
              (__)\       )\/\       FreeBSD man pages than you
                  ||----w |
                  ||     ||
-       
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=CC2200&background=00000000&width=400&lines=penguins+are+not+welcome+here." alt="Typing SVG" />
