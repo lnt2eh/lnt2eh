@@ -14,6 +14,6 @@
                  ||     ||
 ```
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=CC2200&background=00000000&width=400&lines=penguins+are+not+welcome+here." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=CC2200&background=00000000&width=400&lines=Penguins+are+not+welcome+here." />
 </p>
 
