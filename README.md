@@ -27,6 +27,6 @@ currently breaking things and calling it research.
 ```
 
 ```text
-$ whoami
+C:\Users\_int2eh> whoami
 _int2Eh
 ```
