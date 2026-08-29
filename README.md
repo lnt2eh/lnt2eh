@@ -1,19 +1,32 @@
-```
+```text
 ================================================================================
-                   [ _int2Eh github — enter at your own risk ]
+                    [ _int2Eh — github ]
 ================================================================================
 
-  ________________________________________
-  / so you want to know about me huh      \
-  \   ok fine                             /
-  ----------------------------------------
+  _______________________________________
+ / you again?                            \
+ \ fine. look around.                     /
+  ---------------------------------------
          \   ^__^
-          \  (oo)\_______       <-- this cow has read more
-             (__)\       )\/\       FreeBSD man pages than you
+          \  (oo)\_______
+             (__)\       )\/\
                  ||----w |
                  ||     ||
+
+        this cow knows more about ring 0 than you
 ```
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=CC2200&background=00000000&width=400&lines=Penguins+are+not+welcome+here." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=CC2200&background=00000000&width=450&lines=Penguins+are+not+welcome+here" />
 </p>
 
+```text
+AMD64 · Operating Systems · Kernel Development · Virtualization
+
+currently breaking things and calling it research.
+```
+
+```text
+$ whoami
+_int2Eh
+```
